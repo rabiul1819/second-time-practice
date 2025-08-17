@@ -1,0 +1,16 @@
+.header{
+    height: 300px;
+    /* background-color: bisque; */
+    /* background-image: url('images/reh.jpg'); */
+    /* background-repeat: none; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size: center; */
+    background-size: 500px;
+    background-image: url('../styles/images/reh.jpg');
+}
+.dolor{
+    border: 2px solid peru;
+    height: 60px;
+    display:inline-block;
+}

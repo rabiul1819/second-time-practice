@@ -1,0 +1,28 @@
+.head1{ color: tomato;
+    text-align: center;
+    /* font-size: large; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.para1{
+    box-shadow: 5px 5px 10px violet ;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+.btn1{
+    /* border: 5px; */
+    /* text-decoration: none; */
+    color: green;
+    border-radius: 5px;
+    background-color: white;
+}
+.btn1:hover{
+background-color: chartreuse;
+color:brown;
+}
+.img1{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    width: 100px;
+}

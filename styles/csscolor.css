@@ -1,0 +1,53 @@
+.head{
+    background-color: dodgerblue;
+    color: white;
+    margin: 0;
+}
+p{
+    background-color: tomato;
+    color: white;
+    padding: 12px 24px;
+    font-size: 16px;
+    
+    margin: 0;
+}
+.head1{
+    /* background-color: none; */
+    border: 2px solid;
+    border-color: red;
+    /* margin: 0; */
+}
+.head2{
+    border: 2px solid;
+    border-color: blueviolet;
+    /* margin: 0; */
+    /* padding: 15px; */
+    padding-left: 150px;
+}
+.head3{
+    border: 2px solid;
+    border-color: brown;
+    /* margin: 0; */
+    padding: 5px;
+}
+.pagla{
+    border-left: 6px solid lightgreen;
+    
+}
+.two{
+    border: 2px solid lightgreen;
+    border: 5px;
+}
+.two1{
+    border: 2px solid green;
+    border-radius: 10px;
+}
+.two2{
+    border: 2px solid green;
+    border-radius: 15px;
+}
+.two3{
+    /* border: 2px solid green;
+    border-radius: 20px; */
+    margin-left: inherit;
+}

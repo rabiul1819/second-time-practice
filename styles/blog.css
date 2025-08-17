@@ -1,0 +1,11 @@
+h2{
+    color: tomato;
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
